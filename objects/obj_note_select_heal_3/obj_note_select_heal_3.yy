@@ -1,6 +1,6 @@
 {
   "$GMObject":"",
-  "%Name":"obj_note_select_heal_1",
+  "%Name":"obj_note_select_heal_3",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
@@ -8,11 +8,11 @@
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_note_select_heal_1",
+  "name":"obj_note_select_heal_3",
   "overriddenProperties":[],
   "parent":{
-    "name":"Note Select 1",
-    "path":"folders/UI/Objects/Note Select/Note Select 1.yy",
+    "name":"Note Select 3",
+    "path":"folders/UI/Objects/Note Select/Note Select 3.yy",
   },
   "parentObjectId":null,
   "persistent":false,

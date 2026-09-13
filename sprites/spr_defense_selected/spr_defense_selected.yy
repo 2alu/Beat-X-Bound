@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Sprites",
-    "path":"folders/UI/Sprites.yy",
+    "name":"Fight",
+    "path":"folders/UI/Sprites/Fight.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

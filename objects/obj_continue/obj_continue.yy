@@ -1,18 +1,17 @@
 {
   "$GMObject":"",
-  "%Name":"obj_note_select_heal_1",
+  "%Name":"obj_continue",
   "eventList":[
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_note_select_heal_1",
+  "name":"obj_continue",
   "overriddenProperties":[],
   "parent":{
-    "name":"Note Select 1",
-    "path":"folders/UI/Objects/Note Select/Note Select 1.yy",
+    "name":"UI Universal",
+    "path":"folders/UI/Objects/UI Universal.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -33,8 +32,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_note_select_attack_unselected",
-    "path":"sprites/spr_note_select_attack_unselected/spr_note_select_attack_unselected.yy",
+    "name":"spr_continue_not_clickable",
+    "path":"sprites/spr_continue_not_clickable/spr_continue_not_clickable.yy",
   },
   "spriteMaskId":null,
   "visible":true,

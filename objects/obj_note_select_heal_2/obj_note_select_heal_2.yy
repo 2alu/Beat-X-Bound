@@ -12,7 +12,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Note Select 2",
-    "path":"folders/UI/Objects/Note Select 2.yy",
+    "path":"folders/UI/Objects/Note Select/Note Select 2.yy",
   },
   "parentObjectId":null,
   "persistent":false,
