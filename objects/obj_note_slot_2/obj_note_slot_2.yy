@@ -1,17 +1,15 @@
 {
   "$GMObject":"",
-  "%Name":"obj_continue",
+  "%Name":"obj_note_slot_2",
   "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":10,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":11,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
     {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":0,"eventType":3,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
   ],
   "managed":true,
-  "name":"obj_continue",
+  "name":"obj_note_slot_2",
   "overriddenProperties":[],
   "parent":{
-    "name":"UI Universal",
-    "path":"folders/UI/Objects/UI Universal.yy",
+    "name":"Objects",
+    "path":"folders/Falling Notes/Objects.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -31,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_continue_not_clickable",
-    "path":"sprites/spr_continue_not_clickable/spr_continue_not_clickable.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
