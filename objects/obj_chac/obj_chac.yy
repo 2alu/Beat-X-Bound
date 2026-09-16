@@ -1,13 +1,16 @@
 {
   "$GMObject":"",
-  "%Name":"obj_spuddy_and_gang",
-  "eventList":[],
+  "%Name":"obj_chac",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":5,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_spuddy_and_gang",
+  "name":"obj_chac",
   "overriddenProperties":[],
   "parent":{
-    "name":"Band Members",
-    "path":"folders/Band Members.yy",
+    "name":"Chac",
+    "path":"folders/Band Members/Chac.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +31,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_spuddy_and_gang",
-    "path":"sprites/spr_spuddy_and_gang/spr_spuddy_and_gang.yy",
+    "name":"spr_chac",
+    "path":"sprites/spr_chac/spr_chac.yy",
   },
   "spriteMaskId":null,
   "visible":true,

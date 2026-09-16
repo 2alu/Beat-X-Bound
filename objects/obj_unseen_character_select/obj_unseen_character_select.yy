@@ -1,9 +1,11 @@
 {
   "$GMObject":"",
-  "%Name":"obj_singster",
-  "eventList":[],
+  "%Name":"obj_unseen_character_select",
+  "eventList":[
+    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":2,"eventType":7,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
+  ],
   "managed":true,
-  "name":"obj_singster",
+  "name":"obj_unseen_character_select",
   "overriddenProperties":[],
   "parent":{
     "name":"Band Members",
@@ -27,10 +29,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_singster",
-    "path":"sprites/spr_singster/spr_singster.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }

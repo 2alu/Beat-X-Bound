@@ -1,13 +1,13 @@
 {
   "$GMObject":"",
-  "%Name":"obj_drummer_boy",
+  "%Name":"obj_amp",
   "eventList":[],
   "managed":true,
-  "name":"obj_drummer_boy",
+  "name":"obj_amp",
   "overriddenProperties":[],
   "parent":{
-    "name":"Band Members",
-    "path":"folders/Band Members.yy",
+    "name":"Amp",
+    "path":"folders/Band Members/Amp.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -28,8 +28,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_drummer_boy",
-    "path":"sprites/spr_drummer_boy/spr_drummer_boy.yy",
+    "name":"spr_amp",
+    "path":"sprites/spr_amp/spr_amp.yy",
   },
   "spriteMaskId":null,
   "visible":true,
