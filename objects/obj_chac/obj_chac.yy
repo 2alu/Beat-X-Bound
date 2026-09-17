@@ -1,16 +1,13 @@
 {
   "$GMObject":"",
   "%Name":"obj_chac",
-  "eventList":[
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":4,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-    {"$GMEvent":"v1","%Name":"","collisionObjectId":null,"eventNum":5,"eventType":6,"isDnD":true,"name":"","resourceType":"GMEvent","resourceVersion":"2.0",},
-  ],
+  "eventList":[],
   "managed":true,
   "name":"obj_chac",
   "overriddenProperties":[],
   "parent":{
     "name":"Chac",
-    "path":"folders/Band Members/Chac.yy",
+    "path":"folders/Character Select/Band Members/Chac.yy",
   },
   "parentObjectId":null,
   "persistent":false,

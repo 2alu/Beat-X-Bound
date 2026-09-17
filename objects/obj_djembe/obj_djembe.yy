@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Djembe",
-    "path":"folders/Band Members/Djembe.yy",
+    "path":"folders/Character Select/Band Members/Djembe.yy",
   },
   "parentObjectId":null,
   "persistent":false,

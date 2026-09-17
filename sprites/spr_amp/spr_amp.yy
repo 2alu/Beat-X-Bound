@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Amp",
-    "path":"folders/Band Members/Amp.yy",
+    "path":"folders/Character Select/Band Members/Amp.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

@@ -23,3 +23,64 @@ else{	/// @DnDAction : YoYo Games.Instances.Set_Sprite
 	/// @DnDSaveInfo : "spriteind" "spr_note_select_defense_unselected"
 	sprite_index = spr_note_select_defense_unselected;
 	image_index = 0;}
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 3F194579
+/// @DnDArgument : "var" "should_i_be_big"
+/// @DnDArgument : "value" "1"
+if(should_i_be_big == 1){	/// @DnDAction : YoYo Games.Common.If_Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 31F16CEC
+	/// @DnDParent : 3F194579
+	/// @DnDArgument : "var" "image_xscale"
+	/// @DnDArgument : "not" "1"
+	/// @DnDArgument : "op" "4"
+	/// @DnDArgument : "value" "3.5"
+	if(!(image_xscale >= 3.5)){	/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 57CC122B
+		/// @DnDParent : 31F16CEC
+		/// @DnDArgument : "expr" "+0.5"
+		/// @DnDArgument : "expr_relative" "1"
+		/// @DnDArgument : "var" "image_xscale"
+		image_xscale += +0.5;
+	
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 629E3D0D
+		/// @DnDParent : 31F16CEC
+		/// @DnDArgument : "expr" "+0.5"
+		/// @DnDArgument : "expr_relative" "1"
+		/// @DnDArgument : "var" "image_yscale"
+		image_yscale += +0.5;}}
+
+/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDVersion : 1
+/// @DnDHash : 5B7F35F7
+/// @DnDArgument : "var" "should_i_be_big"
+if(should_i_be_big == 0){	/// @DnDAction : YoYo Games.Common.If_Variable
+	/// @DnDVersion : 1
+	/// @DnDHash : 4599288B
+	/// @DnDParent : 5B7F35F7
+	/// @DnDArgument : "var" "image_xscale"
+	/// @DnDArgument : "not" "1"
+	/// @DnDArgument : "op" "3"
+	/// @DnDArgument : "value" "2.5"
+	if(!(image_xscale <= 2.5)){	/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 126AC574
+		/// @DnDParent : 4599288B
+		/// @DnDArgument : "expr" "-0.5"
+		/// @DnDArgument : "expr_relative" "1"
+		/// @DnDArgument : "var" "image_xscale"
+		image_xscale += -0.5;
+	
+		/// @DnDAction : YoYo Games.Common.Variable
+		/// @DnDVersion : 1
+		/// @DnDHash : 41461558
+		/// @DnDParent : 4599288B
+		/// @DnDArgument : "expr" "-0.5"
+		/// @DnDArgument : "expr_relative" "1"
+		/// @DnDArgument : "var" "image_yscale"
+		image_yscale += -0.5;}}

@@ -2,8 +2,8 @@
 /// @DnDVersion : 1
 /// @DnDHash : 3A9FDD73
 /// @DnDArgument : "var" "global.character_select_3"
-/// @DnDArgument : "value" "6"
-if(global.character_select_3 == 6){	/// @DnDAction : YoYo Games.Common.If_Variable
+/// @DnDArgument : "value" "2"
+if(global.character_select_3 == 2){	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 7F771C54
 	/// @DnDParent : 3A9FDD73

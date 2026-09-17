@@ -4,7 +4,7 @@
   "bboxMode":0,
   "bbox_bottom":9,
   "bbox_left":0,
-  "bbox_right":19,
+  "bbox_right":20,
   "bbox_top":0,
   "collisionKind":1,
   "collisionTolerance":0,
@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Chac",
-    "path":"folders/Band Members/Chac.yy",
+    "path":"folders/Character Select/Band Members/Chac.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
@@ -86,5 +86,5 @@
   },
   "type":0,
   "VTile":false,
-  "width":20,
+  "width":21,
 }

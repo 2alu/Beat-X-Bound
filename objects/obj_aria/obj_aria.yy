@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Aria",
-    "path":"folders/Band Members/Aria.yy",
+    "path":"folders/Character Select/Band Members/Chac/Aria.yy",
   },
   "parentObjectId":null,
   "persistent":false,

@@ -9,7 +9,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Chac",
-    "path":"folders/Band Members/Chac.yy",
+    "path":"folders/Character Select/Band Members/Chac.yy",
   },
   "parentObjectId":null,
   "persistent":false,

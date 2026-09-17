@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Chac",
-    "path":"folders/Band Members/Chac.yy",
+    "path":"folders/Character Select/Band Members/Chac.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

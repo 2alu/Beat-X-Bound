@@ -7,7 +7,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Amp",
-    "path":"folders/Band Members/Amp.yy",
+    "path":"folders/Character Select/Band Members/Amp.yy",
   },
   "parentObjectId":null,
   "persistent":false,

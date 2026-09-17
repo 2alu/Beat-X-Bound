@@ -26,7 +26,7 @@
   "origin":0,
   "parent":{
     "name":"Djembe",
-    "path":"folders/Band Members/Djembe.yy",
+    "path":"folders/Character Select/Band Members/Djembe.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
