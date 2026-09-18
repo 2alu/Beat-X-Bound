@@ -8,8 +8,8 @@
   "name":"obj_unseen_character_select",
   "overriddenProperties":[],
   "parent":{
-    "name":"Band Members",
-    "path":"folders/Character Select/Band Members.yy",
+    "name":"Character Select",
+    "path":"folders/Character Select.yy",
   },
   "parentObjectId":null,
   "persistent":false,

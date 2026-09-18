@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Aria",
-    "path":"folders/Character Select/Band Members/Chac/Aria.yy",
+    "path":"folders/Character Select/Band Members/Aria.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",
