@@ -13,6 +13,14 @@ if(!(global.character_select_1 == 1)){	/// @DnDAction : YoYo Games.Common.Vari
 	/// @DnDArgument : "var" "global.character_select_1"
 	global.character_select_1 += -1;
 
+	/// @DnDAction : YoYo Games.Audio.Play_Audio
+	/// @DnDVersion : 1.1
+	/// @DnDHash : 29A85514
+	/// @DnDParent : 06326C99
+	/// @DnDArgument : "soundid" "snd_click"
+	/// @DnDSaveInfo : "soundid" "snd_click"
+	audio_play_sound(snd_click, 0, 0, 1.0, undefined, 1.0);
+
 	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDVersion : 1
 	/// @DnDHash : 60104090

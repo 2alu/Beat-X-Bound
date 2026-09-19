@@ -1,0 +1,26 @@
+{
+  "$GMSound":"v2",
+  "%Name":"snd_click",
+  "audioGroupId":{
+    "name":"audiogroup_default",
+    "path":"audiogroups/audiogroup_default",
+  },
+  "bitDepth":0,
+  "channelFormat":1,
+  "compression":1,
+  "compressionQuality":0,
+  "conversionMode":0,
+  "duration":0.31927437,
+  "exportDir":"",
+  "name":"snd_click",
+  "parent":{
+    "name":"Beat X Bound",
+    "path":"Beat X Bound.yyp",
+  },
+  "preload":false,
+  "resourceType":"GMSound",
+  "resourceVersion":"2.0",
+  "sampleRate":22050,
+  "soundFile":"snd_click.ogg",
+  "volume":1.0,
+}
