@@ -19,6 +19,6 @@ if(!(global.note_1 == 0)){	/// @DnDAction : YoYo Games.Common.If_Variable
 			/// @DnDVersion : 1
 			/// @DnDHash : 10A687BA
 			/// @DnDParent : 08D6538B
-			/// @DnDArgument : "room" "rm_1"
-			/// @DnDSaveInfo : "room" "rm_1"
-			room_goto(rm_1);}}}
+			/// @DnDArgument : "room" "rm_base_fight"
+			/// @DnDSaveInfo : "room" "rm_base_fight"
+			room_goto(rm_base_fight);}}}

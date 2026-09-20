@@ -43,12 +43,4 @@ if(!(global.character_select_3 == global.character_numbers)){	/// @DnDAction :
 	/// @DnDParent : 06326C99
 	/// @DnDArgument : "steps" "1"
 	/// @DnDArgument : "alarm" "1"
-	alarm_set(1, 1);
-
-	/// @DnDAction : YoYo Games.Audio.Play_Audio
-	/// @DnDVersion : 1.1
-	/// @DnDHash : 50B53AB7
-	/// @DnDParent : 06326C99
-	/// @DnDArgument : "soundid" "snd_click"
-	/// @DnDSaveInfo : "soundid" "snd_click"
-	audio_play_sound(snd_click, 0, 0, 1.0, undefined, 1.0);}
+	alarm_set(1, 1);}

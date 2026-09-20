@@ -17,9 +17,7 @@ if(!(global.note_1 == 0)){	/// @DnDAction : YoYo Games.Common.If_Variable
 		/// @DnDArgument : "not" "1"
 		if(!(global.note_3 == 0)){	/// @DnDAction : YoYo Games.Common.Variable
 			/// @DnDVersion : 1
-			/// @DnDHash : 20509344
+			/// @DnDHash : 485D5F70
 			/// @DnDParent : 4F235862
-			/// @DnDArgument : "expr" "-4"
-			/// @DnDArgument : "expr_relative" "1"
-			/// @DnDArgument : "var" "y"
-			y += -4;}}}
+			/// @DnDArgument : "var" "should_i_be_big"
+			should_i_be_big = 0;}}}
