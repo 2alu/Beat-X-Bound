@@ -50,9 +50,9 @@ direction = -90;
 /// @DnDAction : YoYo Games.Common.Variable
 /// @DnDVersion : 1
 /// @DnDHash : 22C80066
-/// @DnDArgument : "expr" "5"
+/// @DnDArgument : "expr" "2.5"
 /// @DnDArgument : "var" "speed"
-speed = 5;
+speed = 2.5;
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1

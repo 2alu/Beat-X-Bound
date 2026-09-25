@@ -18,6 +18,6 @@ what_sprite = floor(random_range(1, 3 + 1));
 /// @DnDHash : 213B9895
 /// @DnDArgument : "var" "x"
 /// @DnDArgument : "type" "1"
-/// @DnDArgument : "min" "64"
-/// @DnDArgument : "max" "736"
-x = floor(random_range(64, 736 + 1));
+/// @DnDArgument : "min" "14"
+/// @DnDArgument : "max" "306"
+x = floor(random_range(14, 306 + 1));
