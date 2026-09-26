@@ -74,9 +74,9 @@ if(y >= 1000){	/// @DnDAction : YoYo Games.Common.Variable
 	/// @DnDParent : 03FAEF9B
 	/// @DnDArgument : "var" "x"
 	/// @DnDArgument : "type" "1"
-	/// @DnDArgument : "min" "64"
-	/// @DnDArgument : "max" "736"
-	x = floor(random_range(64, 736 + 1));
+	/// @DnDArgument : "min" "14"
+	/// @DnDArgument : "max" "306"
+	x = floor(random_range(14, 306 + 1));
 
 	/// @DnDAction : YoYo Games.Random.Get_Random_Number
 	/// @DnDVersion : 1
