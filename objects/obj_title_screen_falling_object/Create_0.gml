@@ -10,8 +10,8 @@ what_sprite = 0;
 /// @DnDArgument : "var" "what_sprite"
 /// @DnDArgument : "type" "1"
 /// @DnDArgument : "min" "1"
-/// @DnDArgument : "max" "3"
-what_sprite = floor(random_range(1, 3 + 1));
+/// @DnDArgument : "max" "4"
+what_sprite = floor(random_range(1, 4 + 1));
 
 /// @DnDAction : YoYo Games.Random.Get_Random_Number
 /// @DnDVersion : 1

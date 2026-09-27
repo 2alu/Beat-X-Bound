@@ -1,5 +1,12 @@
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
+/// @DnDHash : 155AC10B
+/// @DnDArgument : "value" "1"
+/// @DnDArgument : "var" "type_of_character"
+global.type_of_character = 1;
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
 /// @DnDHash : 79A52D88
 /// @DnDArgument : "value" "-0.8"
 /// @DnDArgument : "var" "card_shrink_speed"
@@ -47,13 +54,20 @@ global.character_select_1 = 1;
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
 /// @DnDHash : 3CBB8B8C
-/// @DnDArgument : "value" "1"
+/// @DnDArgument : "value" "2"
 /// @DnDArgument : "var" "character_select_2"
-global.character_select_2 = 1;
+global.character_select_2 = 2;
 
 /// @DnDAction : YoYo Games.Common.Set_Global
 /// @DnDVersion : 1
 /// @DnDHash : 120928C5
-/// @DnDArgument : "value" "1"
+/// @DnDArgument : "value" "3"
 /// @DnDArgument : "var" "character_select_3"
-global.character_select_3 = 1;
+global.character_select_3 = 3;
+
+/// @DnDAction : YoYo Games.Common.Set_Global
+/// @DnDVersion : 1
+/// @DnDHash : 71E7E500
+/// @DnDArgument : "value" "1"
+/// @DnDArgument : "var" "character_select_slot"
+global.character_select_slot = 1;

@@ -59,7 +59,7 @@
     },
     "name":"spr_backround",
     "playback":1,
-    "playbackSpeed":7.5,
+    "playbackSpeed":1.0,
     "playbackSpeedType":0,
     "resourceType":"GMSequence",
     "resourceVersion":"2.0",

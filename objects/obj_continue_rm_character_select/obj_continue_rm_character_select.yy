@@ -33,10 +33,7 @@
   "resourceType":"GMObject",
   "resourceVersion":"2.0",
   "solid":false,
-  "spriteId":{
-    "name":"spr_continue_character_select",
-    "path":"sprites/spr_continue_character_select/spr_continue_character_select.yy",
-  },
+  "spriteId":null,
   "spriteMaskId":null,
   "visible":true,
 }
