@@ -9,8 +9,8 @@
   "name":"obj_type_switcher_defense",
   "overriddenProperties":[],
   "parent":{
-    "name":"Beat X Bound",
-    "path":"Beat X Bound.yyp",
+    "name":"Character Select",
+    "path":"folders/Character Select.yy",
   },
   "parentObjectId":null,
   "persistent":false,

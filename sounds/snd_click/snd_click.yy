@@ -14,8 +14,8 @@
   "exportDir":"",
   "name":"snd_click",
   "parent":{
-    "name":"Beat X Bound",
-    "path":"Beat X Bound.yyp",
+    "name":"Universal",
+    "path":"folders/Universal.yy",
   },
   "preload":false,
   "resourceType":"GMSound",

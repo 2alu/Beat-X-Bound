@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"Note Select",
-    "path":"folders/UI/Sprites/Note Select.yy",
+    "name":"Sprites",
+    "path":"folders/Note Stuff/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

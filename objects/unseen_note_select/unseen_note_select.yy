@@ -8,8 +8,8 @@
   "name":"unseen_note_select",
   "overriddenProperties":[],
   "parent":{
-    "name":"Note Select",
-    "path":"folders/UI/Objects/Note Select.yy",
+    "name":"Note Stuff",
+    "path":"folders/Note Stuff.yy",
   },
   "parentObjectId":null,
   "persistent":false,

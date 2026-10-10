@@ -8,8 +8,8 @@
   "name":"obj_note_slot_2",
   "overriddenProperties":[],
   "parent":{
-    "name":"Objects",
-    "path":"folders/Falling Notes/Objects.yy",
+    "name":"Note Stuff",
+    "path":"folders/Note Stuff.yy",
   },
   "parentObjectId":null,
   "persistent":false,

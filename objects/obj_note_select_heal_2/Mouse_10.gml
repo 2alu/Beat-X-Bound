@@ -1,6 +1,10 @@
-/// @DnDAction : YoYo Games.Common.Variable
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
-/// @DnDHash : 31A434BC
-/// @DnDArgument : "expr" "1"
-/// @DnDArgument : "var" "should_i_be_big"
-should_i_be_big = 1;
+/// @DnDHash : 73C99F21
+/// @DnDApplyTo : {obj_cursor}
+/// @DnDArgument : "spriteind" "spr_cursor_when_hovering"
+/// @DnDSaveInfo : "spriteind" "spr_cursor_when_hovering"
+with(obj_cursor) {
+sprite_index = spr_cursor_when_hovering;
+image_index = 0;
+}

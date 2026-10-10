@@ -26,7 +26,7 @@
   "origin":4,
   "parent":{
     "name":"Sprites",
-    "path":"folders/Falling Notes/Sprites.yy",
+    "path":"folders/Note Stuff/Sprites.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

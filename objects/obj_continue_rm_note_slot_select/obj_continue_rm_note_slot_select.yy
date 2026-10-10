@@ -12,8 +12,8 @@
   "name":"obj_continue_rm_note_slot_select",
   "overriddenProperties":[],
   "parent":{
-    "name":"Continues",
-    "path":"folders/UI/Objects/UI Universal/Continues.yy",
+    "name":"Universal",
+    "path":"folders/Universal.yy",
   },
   "parentObjectId":null,
   "persistent":false,

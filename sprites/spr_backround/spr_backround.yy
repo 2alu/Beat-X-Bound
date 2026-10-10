@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":0,
   "parent":{
-    "name":"Beat X Bound",
-    "path":"Beat X Bound.yyp",
+    "name":"Universal",
+    "path":"folders/Universal.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

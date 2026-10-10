@@ -44,8 +44,8 @@
   },
   "origin":4,
   "parent":{
-    "name":"Beat X Bound",
-    "path":"Beat X Bound.yyp",
+    "name":"Universal",
+    "path":"folders/Universal.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

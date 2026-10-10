@@ -25,8 +25,8 @@
   "nineSlice":null,
   "origin":4,
   "parent":{
-    "name":"UI Universal",
-    "path":"folders/UI/Sprites/UI Universal.yy",
+    "name":"Universal",
+    "path":"folders/Universal.yy",
   },
   "preMultiplyAlpha":false,
   "resourceType":"GMSprite",

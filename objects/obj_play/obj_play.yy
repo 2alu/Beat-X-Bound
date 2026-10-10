@@ -14,7 +14,7 @@
   "overriddenProperties":[],
   "parent":{
     "name":"Title Screen",
-    "path":"folders/UI/Title Screen.yy",
+    "path":"folders/Title Screen.yy",
   },
   "parentObjectId":null,
   "persistent":false,
@@ -38,6 +38,9 @@
     "name":"spr_play",
     "path":"sprites/spr_play/spr_play.yy",
   },
-  "spriteMaskId":null,
+  "spriteMaskId":{
+    "name":"spr_play",
+    "path":"sprites/spr_play/spr_play.yy",
+  },
   "visible":true,
 }

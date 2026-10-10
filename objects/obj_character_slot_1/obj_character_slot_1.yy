@@ -8,8 +8,8 @@
   "name":"obj_character_slot_1",
   "overriddenProperties":[],
   "parent":{
-    "name":"BATTLE",
-    "path":"folders/BATTLE.yy",
+    "name":"Character Select",
+    "path":"folders/Character Select.yy",
   },
   "parentObjectId":null,
   "persistent":false,
