@@ -1,10 +1,3 @@
-/// @DnDAction : YoYo Games.Common.Variable
-/// @DnDVersion : 1
-/// @DnDHash : 5EA6E148
-/// @DnDArgument : "expr" "1"
-/// @DnDArgument : "var" "should_i_be_big"
-should_i_be_big = 1;
-
 /// @DnDAction : YoYo Games.Instances.Set_Sprite
 /// @DnDVersion : 1
 /// @DnDHash : 5067373C
@@ -15,3 +8,11 @@ with(obj_cursor) {
 sprite_index = spr_cursor_when_hovering;
 image_index = 0;
 }
+
+/// @DnDAction : YoYo Games.Instances.Set_Sprite
+/// @DnDVersion : 1
+/// @DnDHash : 50781199
+/// @DnDArgument : "spriteind" "spr_play_hovered_over"
+/// @DnDSaveInfo : "spriteind" "spr_play_hovered_over"
+sprite_index = spr_play_hovered_over;
+image_index = 0;

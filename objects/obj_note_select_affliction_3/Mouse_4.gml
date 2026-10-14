@@ -2,8 +2,8 @@
 /// @DnDVersion : 1
 /// @DnDHash : 74101020
 /// @DnDArgument : "expr" "4"
-/// @DnDArgument : "var" "global.note_1"
-global.note_1 = 4;
+/// @DnDArgument : "var" "global.note_3"
+global.note_3 = 4;
 
 /// @DnDAction : YoYo Games.Audio.Play_Audio
 /// @DnDVersion : 1.1

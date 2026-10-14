@@ -33,8 +33,8 @@
   "resourceVersion":"2.0",
   "solid":false,
   "spriteId":{
-    "name":"spr_note_select_heal_unselected",
-    "path":"sprites/spr_note_select_heal_unselected/spr_note_select_heal_unselected.yy",
+    "name":"spr_note_select_defense_unselected",
+    "path":"sprites/spr_note_select_defense_unselected/spr_note_select_defense_unselected.yy",
   },
   "spriteMaskId":null,
   "visible":true,
