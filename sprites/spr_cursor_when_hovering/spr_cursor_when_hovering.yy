@@ -23,7 +23,7 @@
   ],
   "name":"spr_cursor_when_hovering",
   "nineSlice":null,
-  "origin":0,
+  "origin":1,
   "parent":{
     "name":"Universal",
     "path":"folders/Universal.yy",
@@ -75,7 +75,7 @@
     ],
     "visibleRange":null,
     "volume":1.0,
-    "xorigin":0,
+    "xorigin":5,
     "yorigin":0,
   },
   "swatchColours":null,
