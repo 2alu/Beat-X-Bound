@@ -29,13 +29,7 @@ if(global.what_type == 2){	/// @DnDAction : YoYo Games.Common.If_Variable
 	/// @DnDParent : 0449404A
 	/// @DnDArgument : "var" "global.what_defend_boss"
 	/// @DnDArgument : "value" "1"
-	if(global.what_defend_boss == 1){	/// @DnDAction : YoYo Games.Rooms.Go_To_Room
-		/// @DnDVersion : 1
-		/// @DnDHash : 7127DD28
-		/// @DnDParent : 244BD738
-		/// @DnDArgument : "room" "rm_kinglet_base"
-		/// @DnDSaveInfo : "room" "rm_kinglet_base"
-		room_goto(rm_kinglet_base);}}
+	if(global.what_defend_boss == 1){}}
 
 /// @DnDAction : YoYo Games.Common.If_Variable
 /// @DnDVersion : 1
